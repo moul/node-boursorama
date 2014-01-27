@@ -1,1 +1,2 @@
-module.exports = {}
+module.exports =
+  Client: require('./client').Client
