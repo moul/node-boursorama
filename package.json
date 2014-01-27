@@ -1,0 +1,25 @@
+{
+  "name": "boursorama",
+  "version": "0.1.0",
+  "description": "boursorama",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moul/node-boursorama.git"
+  },
+  "keywords": [
+    "boursorama"
+  ],
+  "author": "Manfred Touron <m@42.am>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moul/node-boursorama/issues"
+  },
+  "homepage": "https://github.com/moul/node-boursorama"
+}
